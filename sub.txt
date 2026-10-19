@@ -10,4 +10,3 @@ vless://b41eeea4-c191-48ba-86f9-6561604071bf@80.249.145.234:8008?encryption=none
 vless://8c4fcbfa-1b12-462a-b654-5b5cbab73881@155.212.190.7:16443?encryption=none&type=tcp&security=none#🇨🇿 Чехия
 vless://b3ee8dd7-5501-4189-9fba-db3ceff8132c@179.237.67.108:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇨🇭 Швейцария [Torrent]
 vless://0d1aa021-84d7-4997-8333-1254e00ae777@84.38.181.229:16443?encryption=none&type=tcp&security=none#🇪🇪 Эстония
-vless://0d1aa021-84d7-4997-8333-1254e00ae777@84.38.181.229:16443?encryption=none&type=tcp&security=none#Торренты = бан
