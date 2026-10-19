@@ -6,3 +6,6 @@ vless://1f3a38d6-ebcc-4813-847e-b7d9f086a921@188.68.220.19:16443?encryption=none
 vless://be7cb295-4594-4a5a-bc5a-b673d9f5e00d@62.113.103.27:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇷🇺 Россия, Санкт-Петербург
 vless://b41eeea4-c191-48ba-86f9-6561604071bf@80.249.145.234:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇫🇮 Финляндия, Хельсинки
 vless://3a0c3569-49c2-451c-8530-c1f56affcc88@84.38.180.167:16443?encryption=none&type=tcp&security=none#🇮🇹 Италия, Милан
+vless://f8932fa5-3f0c-45a3-9152-1d37be0ac333@85.198.100.2:16443?encryption=none&type=tcp&security=none#🇰🇿 Казахстан, Алматы
+vless://9a8fc468-f805-4251-abf0-156957508a4d@80.249.147.169:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇦🇱 Албания, Тирана
+vless://b3ee8dd7-5501-4189-9fba-db3ceff8132c@179.237.67.108:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇨🇭 Швейцария, Женев
