@@ -9,3 +9,4 @@ vless://3a0c3569-49c2-451c-8530-c1f56affcc88@84.38.180.167:16443?encryption=none
 vless://f8932fa5-3f0c-45a3-9152-1d37be0ac333@85.198.100.2:16443?encryption=none&type=tcp&security=none#🇰🇿 Казахстан, Алматы
 vless://9a8fc468-f805-4251-abf0-156957508a4d@80.249.147.169:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇦🇱 Албания, Тирана
 vless://b3ee8dd7-5501-4189-9fba-db3ceff8132c@179.237.67.108:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇨🇭 Швейцария, Женев
+vless://e49cdd6e-f0b5-4981-afc8-06748be84385@85.198.100.2:17443?encryption=none&type=tcp&security=none#🇰🇬 Кыргызстан, Бишкек
