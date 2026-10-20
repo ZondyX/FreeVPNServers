@@ -1,12 +1,15 @@
 vless://1f3a38d6-ebcc-4813-847e-b7d9f086a921@188.68.220.19:16443?encryption=none&type=tcp&security=none#🇦🇹 Австрия
 vless://9a8fc468-f805-4251-abf0-156957508a4d@80.249.147.169:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇦🇱 Албания
-vless://9ea76ca3-3d77-413e-9d21-e80f938e47ef@185.66.71.100:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇧🇾 Беларусь [P2P]
+vless://9ea76ca3-3d77-413e-9d21-e80f938e47ef@185.66.71.100:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇧🇾 Беларусь
 vless://a9a59270-3614-494d-a7a4-72d3b3fea778@45.144.176.100:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇮🇪 Ирландия
 vless://3a0c3569-49c2-451c-8530-c1f56affcc88@84.38.180.167:16443?encryption=none&type=tcp&security=none#🇮🇹 Италия
-vless://f8932fa5-3f0c-45a3-9152-1d37be0ac333@85.198.100.2:16443?encryption=none&type=tcp&security=none#🇰🇿 Казахстан [P2P]
-vless://e49cdd6e-f0b5-4981-afc8-06748be84385@85.198.100.2:17443?encryption=none&type=tcp&security=none#🇰🇬 Кыргызстан [P2P]
+vless://f8932fa5-3f0c-45a3-9152-1d37be0ac333@85.198.100.2:16443?encryption=none&type=tcp&security=none#🇰🇿 Казахстан
+vless://e49cdd6e-f0b5-4981-afc8-06748be84385@85.198.100.2:17443?encryption=none&type=tcp&security=none#🇰🇬 Кыргызстан
 vless://be7cb295-4594-4a5a-bc5a-b673d9f5e00d@62.113.103.27:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇷🇺 Россия
 vless://b41eeea4-c191-48ba-86f9-6561604071bf@80.249.145.234:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇫🇮 Финляндия
 vless://8c4fcbfa-1b12-462a-b654-5b5cbab73881@155.212.190.7:16443?encryption=none&type=tcp&security=none#🇨🇿 Чехия
 vless://b3ee8dd7-5501-4189-9fba-db3ceff8132c@179.237.67.108:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇨🇭 Швейцария [P2P]
 vless://0d1aa021-84d7-4997-8333-1254e00ae777@84.38.181.229:16443?encryption=none&type=tcp&security=none#🇪🇪 Эстония
+vless://6af32d3c-d690-494a-a7c5-4455a5ef9c12@188.68.221.80:16443?encryption=none&type=tcp&security=none#🇫🇷 Франция
+vless://131cbd07-773a-4663-a147-98d42f067469@176.57.214.196:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇺🇦 Украина
+vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇨🇦 Канада
