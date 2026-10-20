@@ -12,3 +12,4 @@ vless://0d1aa021-84d7-4997-8333-1254e00ae777@84.38.181.229:16443?encryption=none
 vless://6af32d3c-d690-494a-a7c5-4455a5ef9c12@188.68.221.80:16443?encryption=none&type=tcp&security=none#🇫🇷 Франция
 vless://131cbd07-773a-4663-a147-98d42f067469@176.57.214.196:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇺🇦 Украина
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇨🇦 Канада
+vless://e49cdd6e-f0b5-4981-afc8-06748be84385@85.198.100.2:17443?encryption=none&type=tcp&security=none#🇰🇬 Кыргызстан
