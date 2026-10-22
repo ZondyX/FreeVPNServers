@@ -7,7 +7,7 @@ vless://f8932fa5-3f0c-45a3-9152-1d37be0ac333@85.198.100.2:16443?encryption=none&
 vless://be7cb295-4594-4a5a-bc5a-b673d9f5e00d@62.113.103.27:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇷🇺 Россия, Санкт-Петербург
 vless://b41eeea4-c191-48ba-86f9-6561604071bf@80.249.145.234:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇫🇮 Финляндия, Хельсинки
 vless://8c4fcbfa-1b12-462a-b654-5b5cbab73881@155.212.190.7:16443?encryption=none&type=tcp&security=none#🇨🇿 Чехия, Прага
-vless://b3ee8dd7-5501-4189-9fba-db3ceff8132c@179.237.67.108:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇨🇭 Швейцария, Женев
+vless://b3ee8dd7-5501-4189-9fba-db3ceff8132c@179.237.67.108:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇨🇭 Швейцария, Женева
 vless://0d1aa021-84d7-4997-8333-1254e00ae777@84.38.181.229:16443?encryption=none&type=tcp&security=none#🇪🇪 Эстония, Таллин
 vless://6af32d3c-d690-494a-a7c5-4455a5ef9c12@188.68.221.80:16443?encryption=none&type=tcp&security=none#🇫🇷 Франция, Париж
 vless://131cbd07-773a-4663-a147-98d42f067469@176.57.214.196:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇺🇦 Украина, Днепр
