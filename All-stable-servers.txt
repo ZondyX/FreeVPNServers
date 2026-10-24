@@ -21,3 +21,4 @@ vless://234aa131-84d7-4997-1505-ba54e00ae765@188.68.222.228:16443?encryption=non
 vless://a9a59270-3614-494d-a7a4-72d3b3fea778@45.144.176.100:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇮🇪 Ирландия, Дублин
 vless://e49cdd6e-f0b5-4981-afc8-06748be84385@85.198.100.2:17443?encryption=none&type=tcp&security=none#🇰🇬 Кыргызстан, Бишкек
 vless://65cc3e12-d587-404b-a00b-c3aa5e925d71@136.148.77.167:16443?encryption=none&type=tcp&security=none#🇺🇸 США, Нью-Йорк
+vless://dad61e62-7bb2-4b5d-80ce-ebfdbd66cde4@74.113.233.243:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇯🇵Япония, Токио
