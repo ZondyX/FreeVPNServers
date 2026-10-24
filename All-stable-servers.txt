@@ -22,3 +22,5 @@ vless://a9a59270-3614-494d-a7a4-72d3b3fea778@45.144.176.100:8080?encryption=none
 vless://e49cdd6e-f0b5-4981-afc8-06748be84385@85.198.100.2:17443?encryption=none&type=tcp&security=none#🇰🇬 Кыргызстан, Бишкек
 vless://65cc3e12-d587-404b-a00b-c3aa5e925d71@136.148.77.167:16443?encryption=none&type=tcp&security=none#🇺🇸 США, Нью-Йорк
 vless://dad61e62-7bb2-4b5d-80ce-ebfdbd66cde4@74.113.233.243:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇯🇵Япония, Токио
+vless://ce4064a8-7021-4ad2-8790-3b11cffb5c09@185.206.171.35:16443?encryption=none&type=tcp&security=none#🇭🇰 Гонконг, Гонконг
+vless://16c70e13-9708-483b-cab8-6ab0c8167714@jigririkisbitquik.begetcdn.cloud:443?encryption=none&type=xhttp&security=tls&path=%2Fkick%2Flive.ts&host=jigririkisbitquik.begetcdn.cloud&mode=packet-up#🇬🇧 Великобритания, Бирмингем
